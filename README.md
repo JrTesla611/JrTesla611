@@ -16,9 +16,7 @@
 
 - ⚡ Fun fact **I love Linus Torvalds but he hates nvidia which i also love 😭**
 
-- 👨‍💻 All of my projects are available at **[https://jahadabdulla.vercel.app](https://jahadabdulla.vercel.app)**
-
-- 📝 I regularly write articles on **[https://linkocommunity.vercel.app/blog](https://linkocommunity.vercel.app/blog)**
+- 👨‍💻 All of my projects are available at **[https://dev.linko.team](https://dev.linko.team)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
